@@ -5,9 +5,9 @@
   * I WANT to be able to write and save notes
   * SO THAT I can organize my thoughts and keep track of tasks I need to complete
   
-## Sample HTML file generated 
+## Deploy site
 
-![Alt text](/src/images/website.JPG?raw=true "Optional Title")
+[Swan Note Taker](https://swan-note-taker.herokuapp.com/)
 
 ## Installation
 
