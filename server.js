@@ -18,7 +18,9 @@ const apiRoutes = require('./routes/apiRoutes');
 // routes for html
 const htmlRoutes = require('./routes/htmlRoutes');
 
-app.use('./api/notes/', apiRoutes);
+
+// router
+app.use('/api/notes/', apiRoutes);
 app.use('/', htmlRoutes);
 
 // app listener
